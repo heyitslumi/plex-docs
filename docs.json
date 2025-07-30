@@ -3,9 +3,24 @@
   "theme": "maple",
   "name": "Plex Development",
   "colors": {
-    "primary": "#7b68ee"
+    "primary": "#7B68EE",
+    "light": "#7B68EE",
+    "dark": "#7B68EE"
+  },
+  "logo": {
+    "light": "/logo/logo.svg",
+    "dark": "/logo/logo.svg",
+    "href": "https://plexdevelopment.net"
   },
   "favicon": "/favicon.svg",
+  "thumbnails": {
+    "appearance": "dark",
+    "background": "https://panel.amogusreal.tech/storage/assets/3ed41ea25a408c57808f09da427c64502df7aafe.jpg"
+  },
+  "appearance": {
+    "default": "dark",
+    "strict": true
+  },
   "navigation": {
     "tabs": [
       {
@@ -85,10 +100,6 @@
         }
       ]
     }
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
   },
   "navbar": {
     "links": [
