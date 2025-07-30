@@ -14,8 +14,7 @@
   },
   "favicon": "/favicon.svg",
   "thumbnails": {
-    "appearance": "dark",
-    "background": "https://panel.amogusreal.tech/storage/assets/3ed41ea25a408c57808f09da427c64502df7aafe.jpg"
+    "appearance": "dark"
   },
   "appearance": {
     "default": "dark",
