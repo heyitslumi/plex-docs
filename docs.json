@@ -58,6 +58,12 @@
             "pages": [
               "index"
             ]
+          },
+                    {
+            "group": "Getting Started",
+            "pages": [
+              "getting-started/requirements"
+            ]
           }
         ]
       }
