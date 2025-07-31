@@ -62,7 +62,8 @@
                     {
             "group": "Getting Started",
             "pages": [
-              "getting-started/requirements"
+              "getting-started/requirements",
+              "getting-started/installation"
             ]
           }
         ]
