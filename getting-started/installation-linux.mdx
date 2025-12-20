@@ -18,23 +18,27 @@ Follow these steps to install and run the bot on your Linux server:
       <Tab title="Stable" icon="shield-check">
       ```bash
       # Quick Installation
-      curl -sSL https://plexdev.live/install.sh | bash -i
+      curl -sSL https://plexdev.live/setup.sh | sudo bash
 
       # or, choose the manual installation:
-      curl -sSL -o install.sh https://plexdev.live/install.sh
-      chmod +x install.sh
-      ./install.sh
+      git clone https://github.com/Bali0531-RC/plexinstaller.git
+      cd plexinstaller
+      python3 -m venv .venv && source .venv/bin/activate
+      pip install -r requirements.txt
+      python installer.py
       ```
       </Tab>
       <Tab title="Beta" icon="test-tube-diagonal">
       ```bash
       # Quick Installation
-      curl -sSL https://plexdev.live/beta.sh | bash -i
+      curl -sSL https://plexdev.live/setup.sh | sudo bash -s -- -b
 
       # or, choose the manual installation:
-      curl -sSL -o beta.sh https://plexdev.live/beta.sh
-      chmod +x beta.sh
-      ./beta.sh
+      git clone https://github.com/Bali0531-RC/plexinstaller.git
+      cd plexinstaller
+      python3 -m venv .venv && source .venv/bin/activate
+      pip install -r requirements.txt
+      python installer.py
       ```
       </Tab>
     </Tabs>
