@@ -48,4 +48,4 @@ There's no need for one. Unless if you need it:
 <!-- License -->
 <br/><h2 align="center">📝 License</h2>
 
-Copyright © 2025 [amogusreal69](https://github.com/amogusreal69). This project is [MIT](https://github.com/amogusreal69/plex-docs/blob/main/LICENSE) licensed.
+Copyright © 2025-2026 [amogusreal69](https://github.com/amogusreal69). This project is [MIT](https://github.com/amogusreal69/plex-docs/blob/main/LICENSE) licensed.
