@@ -4,8 +4,8 @@
   an unofficial documentation for plex development product or smth IDK
   <br/><br/>
   <a href="https://plex.amogusreal.tech">Website</a> <b>·</b>
-  <a href="https://github.com/amogusreal69/plex-docs/issues">Issues</a> <b>·</b>
-  <a href="https://github.com/amogusreal69/plex-docs/blob/main/LICENSE">License</a>
+  <a href="https://github.com/heyitslumi/plex-docs/issues">Issues</a> <b>·</b>
+  <a href="https://github.com/heyitslumi/plex-docs/blob/main/LICENSE">License</a>
 </p>
 
 
@@ -25,17 +25,17 @@ There's no need for one. Unless if you need it:
 <!-- Contributors -->
 <br/><h2 align="center">👥 Contributors</h2>
 
-<a href="https://github.com/amogusreal69/plex-docs/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=amogusreal69/plex-docs" />
+<a href="https://github.com/heyitslumi/plex-docs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=heyitslumi/plex-docs" />
 </a>
 
 <!-- Stargazers -->
 <br/><h2 align="center">🌟 Stargazers</h2>
 
-<a href="https://github.com/amogusreal69/plex-docs/stargazers/">
+<a href="https://github.com/heyitslumi/plex-docs/stargazers/">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="http://reporoster.com/stars/amogusreal69/plex-docs">
-    <img alt="stargazer-widget" src="http://reporoster.com/stars/dark/amogusreal69/plex-docs">
+    <source media="(prefers-color-scheme: light)" srcset="http://reporoster.com/stars/heyitslumi/plex-docs">
+    <img alt="stargazer-widget" src="http://reporoster.com/stars/dark/heyitslumi/plex-docs">
   </picture>
 </a>
 
@@ -48,4 +48,4 @@ There's no need for one. Unless if you need it:
 <!-- License -->
 <br/><h2 align="center">📝 License</h2>
 
-Copyright © 2025-2026 [amogusreal69](https://github.com/amogusreal69). This project is [MIT](https://github.com/amogusreal69/plex-docs/blob/main/LICENSE) licensed.
+Copyright © 2025-2026 [heyitslumi](https://github.com/heyitslumi). This project is [MIT](https://github.com/heyitslumi/plex-docs/blob/main/LICENSE) licensed.
